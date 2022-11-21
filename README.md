@@ -1,4 +1,4 @@
-#  HackerRank [HackerRank](https://www.hackerrank.com/products/main/ "HackerRank Home Page")
+# HackerRank [HackerRank](https://www.hackerrank.com/products/main/ "HackerRank Home Page")
 ##  Codigos resueltos [de HackerRank](https://github.com/Ccanas-h/EntrenamientoHackerRankDataStructures "Preguntas resueltas")
 
 > 

@@ -3,5 +3,4 @@
 
 > 
 
-
 ![](https://candidatesupport.hackerrank.com/hc/article_attachments/1500013934961/Task_Description.JPG)
